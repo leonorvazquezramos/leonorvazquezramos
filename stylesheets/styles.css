@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Victor Mono';
+    src: url('../fonts/VictorMono-VariableFont_wght.ttf') format('truetype');
+}
+
+body {
+    font-family: 'Victor Mono';
+}
